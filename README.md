@@ -1,1 +1,1 @@
-# sudan-pay-apk
+README.md
